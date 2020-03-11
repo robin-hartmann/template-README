@@ -50,7 +50,7 @@ These instructions will get you a copy of this project up and running on your lo
 1. Add your own `LICENSE` file
 1. Change the title (`#`) according to your project name and choose a fitting emoji to add to it
 1. Take a screenshot from your project in action and replace `docs/images/usage.png` with it
-1. Edit the section as you need
+1. Edit the sections as you need
 1. Add documentation and examples to `docs/`, if needed
     - Otherwise remove `docs/docs.md` and `docs/examples.md`, as well as the relevant sections
 1. Remove other sections you don't need
